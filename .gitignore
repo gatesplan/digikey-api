@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.env
+token_storage.json
+*.pem
+.vscode/
+.idea/
+nul
+
+# 시크릿/워크스페이스/런처 (패키지 배포물 아님)
+.mcp.json
+.claude/
+start-claude.bat
+start-claude.ps1
